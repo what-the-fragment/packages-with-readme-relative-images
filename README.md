@@ -130,8 +130,8 @@ arrested.
 > |              | Relative SVG *fixed* | Relative PNG | Absolute SVG *fixed* | Absolute PNG |
 > |:-------------|:------------:|:------------:|:------------:|:------------:|
 > | *Referenced* | ![][rel-svg] | ![][rel-png] | ![][abs-svg] | ![][abs-png] |
-> | *Inlined unsanitized*    | ![](image.svg) | ![](image.png) | ![](https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg) | ![](https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.png) |
-> | *Inlined sanitized*    | ![](image.svg?sanitize=true) | ![](image.png) | ![](https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true) | ![](https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.png) |
+> | *Inlined unsanitized*    | ![](image.svg) | ![](image.png) | ![](https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg) | ![](https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.png) |
+> | *Inlined sanitized*    | ![](image.svg?sanitize=true) | ![](image.png) | ![](https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true) | ![](https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.png) |
 > |              |              |              |              |              |
 
 Some might say that the problem is that you are using SVG, but that would be a
@@ -245,13 +245,13 @@ letting them go to move on. **Sure, enough of that, thanks, time for action.**
 
 [rel-png]: image.png
 [rel-svg]: image.svg?sanitize=true
-[abs-png]: https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.png
-[abs-svg]: https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true
-[gh-png]: https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.png
-[gh-svg-1]: https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg
-[gh-svg]: https://raw.githubusercontent.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true
-[raw-png]: https://rawgit.com/code-therapy/packages-with-readme-relative-images/HEAD/image.png
-[raw-svg]: https://rawgit.com/code-therapy/packages-with-readme-relative-images/HEAD/image.svg
-[cdn-png]: https://cdn.rawgit.com/code-therapy/packages-with-readme-relative-images/636b6b8616eed31d6333ce98aa414ccd9a47b477/image.png
-[cdn-svg]: https://cdn.rawgit.com/code-therapy/packages-with-readme-relative-images/636b6b8616eed31d6333ce98aa414ccd9a47b477/image.svg
+[abs-png]: https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.png
+[abs-svg]: https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true
+[gh-png]: https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.png
+[gh-svg-1]: https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg
+[gh-svg]: https://raw.githubusercontent.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg?sanitize=true
+[raw-png]: https://rawgit.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.png
+[raw-svg]: https://rawgit.com/what-the-fragment/packages-with-readme-relative-images/HEAD/image.svg
+[cdn-png]: https://cdn.rawgit.com/what-the-fragment/packages-with-readme-relative-images/636b6b8616eed31d6333ce98aa414ccd9a47b477/image.png
+[cdn-svg]: https://cdn.rawgit.com/what-the-fragment/packages-with-readme-relative-images/636b6b8616eed31d6333ce98aa414ccd9a47b477/image.svg
 [yarn-example-issue]: https://github.com/yarnpkg/website/issues/685
